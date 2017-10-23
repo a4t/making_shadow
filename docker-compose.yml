@@ -1,0 +1,6 @@
+networks: {}
+version: '3'
+
+services:
+  mksha:
+    build: ./
